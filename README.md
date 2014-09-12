@@ -1,0 +1,4 @@
+Basics
+======
+
+Learning android basic 
